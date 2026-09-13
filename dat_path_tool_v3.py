@@ -479,7 +479,7 @@ status_label = tk.Label(window, text="Status: Ready", font=("Segoe UI", 10))
 status_label.grid(row=4, column=0, pady=3)
 
 dedication_label = tk.Label(
-    window, text="Dedicated this tool to Chris Lane / LTS Team", font=("Segoe UI", 7)
+    window, text="Space to add Foot Note", font=("Segoe UI", 7)
 )
 dedication_label.grid(row=5, column=0, pady=(0, 5))
 
